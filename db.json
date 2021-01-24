@@ -1,0 +1,38 @@
+{
+  "item": [
+    {
+      "id": 1,
+      "todo": "Check email",
+      "checked": false
+    },
+    {
+      "id": 2,
+      "todo": "Work on test task",
+      "checked": false
+    },
+    {
+      "id": 3,
+      "todo": "Go to gym",
+      "checked": false
+    },
+    {
+      "todo": "New item",
+      "checked": true,
+      "id": 4
+    },
+    {
+      "todo": "New Item 1",
+      "id": 5
+    },
+    {
+      "todo": "test item",
+      "checked": true,
+      "id": 6
+    },
+    {
+      "todo": "New Item",
+      "checked": true,
+      "id": 7
+    }
+  ]
+}
